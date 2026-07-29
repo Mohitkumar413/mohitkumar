@@ -1,3 +1,3 @@
 # mohitkumar
- This is my First Git Repository
- Author = Mohit patel.
+ This is my First Git Repository <br>
+ Author = Mohit kumar (patel)
